@@ -1,0 +1,10 @@
+C:\Users\Usuario\documents\visual studio 2015\Projects\XPTO\XPTO\bin\Debug\XPTO.exe.config
+C:\Users\Usuario\documents\visual studio 2015\Projects\XPTO\XPTO\obj\Debug\XPTO.exe
+C:\Users\Usuario\documents\visual studio 2015\Projects\XPTO\XPTO\obj\Debug\XPTO.pdb
+C:\Users\Usuario\documents\visual studio 2015\Projects\XPTO\XPTO\bin\Debug\Arquivos\matriculasParaVerificar.txt
+C:\Users\Usuario\documents\visual studio 2015\Projects\XPTO\XPTO\bin\Debug\Arquivos\matriculasSemDV.txt
+C:\Users\Usuario\documents\visual studio 2015\Projects\XPTO\XPTO\bin\Debug\XPTO.exe
+C:\Users\Usuario\documents\visual studio 2015\Projects\XPTO\XPTO\bin\Debug\XPTO.pdb
+C:\Users\Usuario\documents\visual studio 2015\Projects\XPTO\XPTO\obj\Debug\XPTO.XptoForm.resources
+C:\Users\Usuario\documents\visual studio 2015\Projects\XPTO\XPTO\obj\Debug\XPTO.Properties.Resources.resources
+C:\Users\Usuario\documents\visual studio 2015\Projects\XPTO\XPTO\obj\Debug\XPTO.csproj.GenerateResource.Cache
